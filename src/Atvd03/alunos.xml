@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<alunos>
+    <aluno>
+        <nome>Pedro</nome>
+        <idade>21</idade>
+        <matricula>12345</matricula>
+        <notas>
+            <disciplina>
+                <nome>POO</nome>
+                <nota>10</nota>
+            </disciplina>
+        </notas>
+    </aluno>
+    <aluno>
+        <nome>Pessoa</nome>
+        <idade>22</idade>
+        <matricula>54321</matricula>
+        <notas>
+            <disciplina>
+                <nome>POO</nome>
+                <nota>9.5</nota>
+            </disciplina>
+        </notas>
+    </aluno>
+</alunos>
